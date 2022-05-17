@@ -1,0 +1,4 @@
+dev-requirements.txt
+-r requirements.txt
+pytest==7.1.2
+httpie==3.2.1
